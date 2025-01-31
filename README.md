@@ -46,7 +46,7 @@ pip install opencv-python numpy easyocr
 │   ├── video2.mp4                  # File video input
 │   └── processed_frames/           # Direktori untuk menyimpan frame yang diproses
 │
-└── deteksiplat.py         # Script utama untuk deteksi plat nomor
+└── deteksiplat.py                  # Script utama untuk deteksi plat nomor
 ```
 
 ---
